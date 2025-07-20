@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.004237c8.css",
+    "main.js": "/static/js/main.bf6adf59.js",
+    "static/js/453.4802620b.chunk.js": "/static/js/453.4802620b.chunk.js",
+    "static/media/foto_bersama.jpg": "/static/media/foto_bersama.565d1a5bddd3e7697617.jpg",
+    "static/media/fotozi.jpg": "/static/media/fotozi.92d45cff919f32e3affa.jpg",
+    "static/media/fotottd1.jpg": "/static/media/fotottd1.590bcea3a11825f82300.jpg",
+    "static/media/LogoPro2Jember.png": "/static/media/LogoPro2Jember.344a44d94074eb704495.png",
+    "static/media/LogoPro1Jember.png": "/static/media/LogoPro1Jember.3ac4bd1aa731b7df33c2.png",
+    "static/media/portfolio6.png": "/static/media/portfolio6.18aea2cb2011782a0f18.png",
+    "static/media/portfolio3.png": "/static/media/portfolio3.df189e13523adb96c88b.png",
+    "static/media/portfolio5.png": "/static/media/portfolio5.cbd2b7d87fb4bc448d7a.png",
+    "static/media/portfolio4.png": "/static/media/portfolio4.14a1d9cbe196ed5b2a0b.png",
+    "static/media/portfolio2.png": "/static/media/portfolio2.85e1bab97bb46016e0cd.png",
+    "index.html": "/index.html",
+    "main.004237c8.css.map": "/static/css/main.004237c8.css.map",
+    "main.bf6adf59.js.map": "/static/js/main.bf6adf59.js.map",
+    "453.4802620b.chunk.js.map": "/static/js/453.4802620b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.004237c8.css",
+    "static/js/main.bf6adf59.js"
+  ]
+}
